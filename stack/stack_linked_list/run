@@ -1,0 +1,5 @@
+gcc src/*.c -o bin/output
+
+if [ $? -eq 0 ]; then  
+    bin/output
+fi

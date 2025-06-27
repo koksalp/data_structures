@@ -1,0 +1,5 @@
+g++ src/*.cpp -o bin/output     
+if [ $? -eq 0 ]; then  
+    clear 
+    bin/output   
+fi                                                                                                  

@@ -1,0 +1,16 @@
+#ifndef NODE_H       
+#define NODE_H       
+
+/* Definition of Node */
+typedef struct Node {
+  int number;
+  struct Node *next;
+} Node;
+
+// create
+Node *create_node(int);
+
+// print
+void print_node(Node *);
+
+#endif
