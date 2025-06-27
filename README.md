@@ -4,7 +4,7 @@ This repository contains implementations of various data structures in **C progr
 
 ## Introduction
 
-This repository includes some of the personal work done during my university course data structures (BLG223E). While it provides a solid foundation for understanding data structures, some functionalities may be inefficient due to learning purposes and the lack of time to fully optimize them. It might also be a great resource for those who struggle with grasping the idea of pointers, dynamic memory allocation, and working with them. It's an excellent starting point for understanding core concepts, though performance improvements could be made in certain areas.
+This repository includes some of the personal work done for learning and practicing purposes in the Data Structures course (BLG223E) offered at my university. While it provides a solid foundation for understanding data structures, some implementations may be inefficient due to the focus on learning concepts and the lack of time to fully optimize them. It might also be a great resource for those who struggle with grasping the idea of pointers, dynamic memory allocation, and working with them. It's an excellent starting point for understanding core concepts, though performance improvements could be made in certain areas.
 
 ## Data Structures Implemented
 
